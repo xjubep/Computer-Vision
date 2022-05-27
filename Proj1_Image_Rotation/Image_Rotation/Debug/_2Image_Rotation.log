@@ -1,0 +1,33 @@
+﻿  main.cpp
+C:\Users\user\Desktop\Image_Rotation_Exercise_120210183_강수연\Image_Rotation\main.cpp(10,54): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\Image_Rotation_Exercise_120210183_강수연\Image_Rotation\main.cpp(19,10): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=double
+          ]
+C:\Users\user\Desktop\Image_Rotation_Exercise_120210183_강수연\Image_Rotation\main.cpp(20,10): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=double
+          ]
+C:\Users\user\Desktop\Image_Rotation_Exercise_120210183_강수연\Image_Rotation\main.cpp(23,14): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\Image_Rotation_Exercise_120210183_강수연\Image_Rotation\main.cpp(24,14): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\Image_Rotation_Exercise_120210183_강수연\Image_Rotation\main.cpp(27,30): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\Image_Rotation_Exercise_120210183_강수연\Image_Rotation\main.cpp(28,29): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\Image_Rotation_Exercise_120210183_강수연\Image_Rotation\main.cpp(50,54): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\Image_Rotation_Exercise_120210183_강수연\Image_Rotation\main.cpp(59,10): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\Image_Rotation_Exercise_120210183_강수연\Image_Rotation\main.cpp(60,10): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\Image_Rotation_Exercise_120210183_강수연\Image_Rotation\main.cpp(63,14): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\Image_Rotation_Exercise_120210183_강수연\Image_Rotation\main.cpp(64,14): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\Image_Rotation_Exercise_120210183_강수연\Image_Rotation\main.cpp(67,21): warning C4244: '+=': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=double
+          ]
+C:\Users\user\Desktop\Image_Rotation_Exercise_120210183_강수연\Image_Rotation\main.cpp(68,21): warning C4244: '+=': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=double
+          ]
+C:\Users\user\Desktop\Image_Rotation_Exercise_120210183_강수연\Image_Rotation\main.cpp(103,54): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  _2Image_Rotation.vcxproj -> C:\Users\user\Desktop\Image_Rotation_Exercise_120210183_강수연\Debug\Image_Rotation.exe
